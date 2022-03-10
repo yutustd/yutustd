@@ -3,9 +3,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yutustd&show_icons=true&theme=default" />
 </a>
 
-📚 Graduate student in Biomedical Engineering
-
-😀 Hackintosher
 
 ## 📋 Magic Number
 
